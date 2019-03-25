@@ -1,3 +1,3 @@
 git add -A
-git commit -m "auto-01"
+git commit -m "build"
 git push
